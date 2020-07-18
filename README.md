@@ -15,7 +15,7 @@ IMAGE
 
 ## License
 
-Royal News is [MIT licensed](./LICENSE).
+[MIT licensed](./LICENSE).
 
 ---
 
